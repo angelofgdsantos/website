@@ -21,11 +21,11 @@ feature:
     icon_pack: fab
     name: Python
   - description: 100%
-    icon: graph
+    icon: chart-line-up
     icon_pack: fas
     name: STATA
   - description: 
-    icon: language
+    icon: comment
     icon_pack: fab
     name: Portuguese, English, Spanish
 # Uncomment to use emoji icons.
