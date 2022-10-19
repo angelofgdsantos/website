@@ -14,7 +14,7 @@ main:
     url: '#projects'
     weight: 30
   - name: Research Experience
-    url: '#talks'
+    url: '#research-experience'
     weight: 40
   - name: Teaching
     url: '#featured'
