@@ -1,7 +1,6 @@
 ---
 # An instance of the Tag Cloud widget.
 # Docs: https://wowchemy.com/docs/page-builder/
-active: false
 widget: tag_cloud
 
 # This file represents a page section.
