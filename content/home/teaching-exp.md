@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: Houston, TX
-    date_start: '2022-05'
-    date_end: '2022-01'
+    date_start: '2022-05-01'
+    date_end: '2022-01-01'
     description: TA for Macroeconomics II, PhD level
   
   - title: Teaching Assistant
@@ -36,8 +36,8 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: Houston, TX
-    date_start: '2021-08'
-    date_end: '2021-12'
+    date_start: '2021-08-01'
+    date_end: '2021-12-01'
     description: TA for Intermediate microeconomics
 
   - title: Teaching Assistant
@@ -45,8 +45,8 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: Houston, TX
-    date_start: '2021-08'
-    date_end: '2021-12'
+    date_start: '2021-08-01'
+    date_end: '2021-12-01'
     description: TA for History of Economic Doctrine
     
   - title: Teaching Assistant
@@ -54,8 +54,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Recife, Brazil
-    date_start: '2016-12'
-    date_end: '2016-08'
+    date_start: '2016-12-01'
+    date_end: '2016-08-1'
     description: TA for Macroeconomics I
  
   - title: Teaching Assistant
@@ -63,8 +63,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Recife, Brazil
-    date_start: '2015-12'
-    date_end: '2015-08'
+    date_start: '2015-12-01'
+    date_end: '2015-08-01'
     description: TA for Elements of Mathematical Economics I
     
 design:
