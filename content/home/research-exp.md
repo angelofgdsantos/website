@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Research Experience
 subtitle:
 
 # Date format for experience
@@ -22,29 +22,33 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Research Assistant
+    company: University of Houston
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Houston, TX
+    date_start: '2021-09-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: Research assitantship for prof. Chinhui Juhn and Yona Rubinstein
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Research Assistant
+    company: FACEPE
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+    location: Recife, Brazil
+    date_start: '2020-04-01'
+    date_end: '2018-04-01'
+    description: Graduate Research assitantship for prof. Raul da Mota Silveira Neto
+ 
+  - title: Research Assistant
+    company: PET - MEC
+    company_url: ''
+    company_logo: org-x
+    location: Recife, Brazil
+    date_start: '2014-08-01'
+    date_end: '2017-08-01'
+    description: Undergraduate Research assitantship funded by the Brazilian government
+    
 design:
   columns: '2'
 ---
