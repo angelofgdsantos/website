@@ -55,7 +55,7 @@ experience:
     company_logo: org-x
     location: Recife, Brazil
     date_start: '2016-12-01'
-    date_end: '2016-08-1'
+    date_end: '2016-08-01'
     description: TA for Macroeconomics I
  
   - title: Teaching Assistant
