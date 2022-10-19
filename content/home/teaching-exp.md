@@ -22,32 +22,50 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Assistant
+  - title: Teaching Assistant
     company: University of Houston
     company_url: ''
     company_logo: org-gc
     location: Houston, TX
-    date_start: '2021-09-01'
-    date_end: ''
-    description: Research assitantship for prof. Chinhui Juhn and Yona Rubinstein
+    date_start: '2022-05'
+    date_end: '2022-01'
+    description: TA for Macroeconomics II, PhD level
+  
+  - title: Teaching Assistant
+    company: University of Houston
+    company_url: ''
+    company_logo: org-gc
+    location: Houston, TX
+    date_start: '2021-08'
+    date_end: '2021-12'
+    description: TA for Intermediate microeconomics
 
-  - title: Research Assistant
-    company: Federal University of Pernambuco
+  - title: Teaching Assistant
+    company: University of Houston
+    company_url: ''
+    company_logo: org-gc
+    location: Houston, TX
+    date_start: '2021-08'
+    date_end: '2021-12'
+    description: TA for History of Economic Doctrine
+    
+  - title: Teaching Assistant
+    company: Federal University of Pernambuco - UFPE
     company_url: ''
     company_logo: org-x
     location: Recife, Brazil
-    date_start: '2020-04-01'
-    date_end: '2018-04-01'
-    description: Graduate Research assitantship for prof. Raul da Mota Silveira Neto
+    date_start: '2016-12'
+    date_end: '2016-08'
+    description: TA for Macroeconomics I
  
-  - title: Research Assistant
-    company: Federal University of Pernambuco
+  - title: Teaching Assistant
+    company: Federal University of Pernambuco - UFPE
     company_url: ''
     company_logo: org-x
     location: Recife, Brazil
-    date_start: '2014-08-01'
-    date_end: '2017-08-01'
-    description: Undergraduate Research assitantship funded by the Brazilian government
+    date_start: '2015-12'
+    date_end: '2015-08'
+    description: TA for Elements of Mathematical Economics I
     
 design:
   columns: '2'
