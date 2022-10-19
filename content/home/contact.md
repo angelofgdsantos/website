@@ -26,13 +26,14 @@ content:
 
   # Contact details (edit or remove options as required)
   email: angelofgdsantos@gmail.com
-  address: 4800 Calhoun Rd, Houston, TX 77004
+  address: 
     street: 4800 Calhoun Rd
     city: Houston
     region: TX
     postcode: '77004'
     country: United States
     country_code: US
+  
 
 design:
   columns: '2'
