@@ -32,7 +32,7 @@ experience:
     description: Research assitantship for prof. Chinhui Juhn and Yona Rubinstein
 
   - title: Research Assistant
-    company: FACEPE
+    company: Federal University of Pernambuco
     company_url: ''
     company_logo: org-x
     location: Recife, Brazil
@@ -41,7 +41,7 @@ experience:
     description: Graduate Research assitantship for prof. Raul da Mota Silveira Neto
  
   - title: Research Assistant
-    company: PET - MEC
+    company: Federal University of Pernambuco
     company_url: ''
     company_logo: org-x
     location: Recife, Brazil
