@@ -33,7 +33,7 @@ content:
       tag: Education
     - name: Health
       tag: Health
-    - Labor
+    - name: Labor
       tag: Labor
 
 design:
