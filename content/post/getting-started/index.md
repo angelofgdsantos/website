@@ -1,6 +1,8 @@
 ---
-title: Targeting the disabled, The Brazilian Experience
-subtitle: In this research I estimate the impact of a educational program in Brazil. This program offered targeting classes to disabled students in order to reduce learning gaps. 
+title: Display Jupyter Notebooks with Academic
+subtitle: Learn how to blog in Academic using Jupyter notebooks
+summary: Learn how to blog in Academic using Jupyter notebooks
+authors: 
 
 # Summary for listings and search engines
 summary: 
