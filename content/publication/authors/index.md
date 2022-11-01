@@ -5,8 +5,8 @@ title: 'Authors Project'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - [admin](https://github.com/AngeloSant0s)
-  - [Jordan Holbrook](https://github.com/jordanholbrook)
+  - admin
+  - Jordan Holbrook
 
 # Author notes (optional)
 author_notes:
