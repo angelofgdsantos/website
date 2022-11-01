@@ -42,8 +42,8 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_repo: 'https://github.com/AngeloSant0s/human-capital'
-url_website: 'https://angelosant0s.github.io/human-capital/md/intro.html'
+url_code: 'https://github.com/AngeloSant0s/human-capital'
+url_project: 'https://angelosant0s.github.io/human-capital/md/intro.html'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
