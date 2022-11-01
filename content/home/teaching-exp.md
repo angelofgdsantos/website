@@ -29,7 +29,9 @@ experience:
     location: Houston, TX
     date_start: '2022-05-01'
     date_end: '2022-01-01'
-    description: TA for Macroeconomics II, PhD level
+    description: 
+    - TA for Intermediate microeconomics
+    - TA for Macroeconomics II, PhD level
   
   - title: Teaching Assistant
     company: University of Houston
