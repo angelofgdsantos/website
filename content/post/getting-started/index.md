@@ -1,5 +1,5 @@
 ---
-title: [Auhtor's Project](https://angelosant0s.github.io/authors-project/md/intro.html)
+title: Auhtor's Project
 subtitle: This is a joint work with Jordan Holbrook
 
 # Summary for listings and search engines
