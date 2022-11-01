@@ -1,17 +1,13 @@
 ---
-title: 'Authors Project'
+title: 'Human Capital'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Jordan Holbrook
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
 
 date: '2022-07-01T00:00:00Z'
 #doi: ''
@@ -29,7 +25,9 @@ date: '2022-07-01T00:00:00Z'
 #publication: In *Wowchemy Conference*
 #publication_short: In *ICW*
 
-Description: While much research has been done on the gender wage gap, understanding the gender publishing gap as well as what makes best-selling authors unique is critical to understanding other disparities in the labor force. Our research examines the gender publishing gap among authors with a book on the New York Times Best Seller list (1931-2018) as well as among authors with a published work accepted into the United States Library of Congress (1900-2015). We study this labor market to understand what factors have contributed to women’s success. 
+Description: This project contains all my routines coded for the Human Capital PhD course thaught by Fan Wang in the department of economics at the University of Houston.
+
+
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -44,8 +42,8 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_repo: 'https://github.com/AngeloSant0s/authors-project'
-url_website: 'https://angelosant0s.github.io/authors-project/md/intro.html'
+url_repo: 'https://github.com/AngeloSant0s/human-capital'
+url_website: 'https://angelosant0s.github.io/human-capital/md/intro.html'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
