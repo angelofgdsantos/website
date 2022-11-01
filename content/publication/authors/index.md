@@ -5,15 +5,15 @@ title: 'Authors Project'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Jordan Holbrook
+  - [admin](https://github.com/AngeloSant0s)
+  - [Jordan Holbrook](https://github.com/jordanholbrook)
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-#date: '2013-07-01T00:00:00Z'
+date: '2022-07-01T00:00:00Z'
 #doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -37,7 +37,7 @@ abstract: While much research has been done on the gender wage gap, understandin
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
