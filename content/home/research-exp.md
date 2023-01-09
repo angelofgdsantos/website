@@ -23,6 +23,18 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Assistant
+    company: PIRE project
+    company_url: ''
+    company_logo: image2vector
+    location: Houston, TX
+    date_start: '2023-01-01'
+    date_end: ''
+    description: Research Assistant for partnership between World Bank, IDB, ADB, UNICEF, Regional Institute
+for Population Studies in Ghana, University of Pennsylvania
+and the University of Houston. The title of the project is: Climate risk, pollution, and childhood inequalities in
+low- and middle-income countries
+    
+  - title: Research Assistant
     company: University of Houston
     company_url: ''
     company_logo: org-gc
