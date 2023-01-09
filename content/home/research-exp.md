@@ -29,10 +29,7 @@ experience:
     location: Houston, TX
     date_start: '2023-01-01'
     date_end: ''
-    description: Research Assistant for partnership between World Bank, IDB, ADB, UNICEF, Regional Institute
-for Population Studies in Ghana, University of Pennsylvania
-and the University of Houston. The title of the project is: Climate risk, pollution, and childhood inequalities in
-low- and middle-income countries
+    description: Research Assistant for partnership between World Bank, IDB, ADB, UNICEF, Regional Institute for Population Studies in Ghana, University of Pennsylvania and the University of Houston. The title of the project is: Climate risk, pollution, and childhood inequalities in low- and middle-income countries
     
   - title: Research Assistant
     company: University of Houston
