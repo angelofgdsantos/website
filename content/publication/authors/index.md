@@ -45,7 +45,7 @@ featured: false
 #   url: http://example.org
 
 url_code: 'https://github.com/AngeloSant0s/authors-project'
-url_project: 'https://angelosant0s.github.io/authors-project/md/intro.html'
+url_website: 'https://angelosant0s.github.io/authors-project/md/intro.html'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
