@@ -74,4 +74,4 @@ email: ''
 highlight_name: true
 ---
 
-Hello! I am a PhD candidate at the University of Houston. My interest are development, education and health. My ongoing research is try to estimate a special education policy in Brazil. I am also a python and soccer lover!
+Hello! I am a PhD candidate at the University of Houston. My interest are development, education and health. In my current research, I analyze the impacts of a special education policy in Brazil. I am also a python and soccer lover!
