@@ -38,7 +38,7 @@ experience:
     location: Houston, TX
     date_start: '2021-09-01'
     date_end: ''
-    description: Research assitantship for prof. Chinhui Juhn and Yona Rubinstein
+    description: Research assistantship for prof. Chinhui Juhn and Yona Rubinstein
 
   - title: Research Assistant
     company: Federal University of Pernambuco
@@ -47,7 +47,7 @@ experience:
     location: Recife, Brazil
     date_start: '2020-04-01'
     date_end: '2018-04-01'
-    description: Graduate Research assitantship for prof. Raul da Mota Silveira Neto
+    description: Graduate Research assistantship for prof. Raul da Mota Silveira Neto
  
   - title: Research Assistant
     company: Federal University of Pernambuco
@@ -56,7 +56,7 @@ experience:
     location: Recife, Brazil
     date_start: '2014-08-01'
     date_end: '2017-08-01'
-    description: Undergraduate Research assitantship funded by the Brazilian government
+    description: Undergraduate Research assistantship funded by the Brazilian government
     
 design:
   columns: '2'
