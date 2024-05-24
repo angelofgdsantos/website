@@ -23,8 +23,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Development
-  - Education
-  - Health
+  - Enviromental economics
   
 # Education to show in About widget
 education:
@@ -74,4 +73,4 @@ email: ''
 highlight_name: true
 ---
 
-Hello! I am a PhD candidate at the University of Houston. My interest are development, education and health. In my current research, I analyze the impacts of a special education policy in Brazil. I am also a python and soccer lover!
+Hello! This website has been moved to a new location[here](https://angelosant0s.github.io/hugo-website/)
