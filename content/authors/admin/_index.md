@@ -73,4 +73,4 @@ email: ''
 highlight_name: true
 ---
 
-Hello! This website has been moved to a new location [here](https://angelosant0s.github.io/hugo-website/)
+Hello! This website has been moved to a new location [here](https://angelofgdsantos.github.io)
